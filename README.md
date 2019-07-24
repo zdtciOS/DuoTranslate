@@ -1,47 +1,86 @@
-DuoT隐私政策
-
-DuoT尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，DuoT会按照本隐私权政策的规定使用和披露您的个人信息。但DuoT将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，DuoT不会将这些信息对外披露或向第三方提供。DuoT会不时更新本隐私权政策。
-您在同意DuoT服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于DuoT服务使用协议不可分割的一部分。
-
-1. 适用范围
-
-在您使用DuoT网络服务，或访问DuoT平台网页时，DuoT自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
-
- b) DuoT通过合法途径从商业伙伴处取得的用户个人数据。
-
- 您了解并同意，以下信息不适用本隐私权政策：
-
-a) DuoT收集到的您在DuoT发布的有关信息数据，包括但不限于参与活动；
-
-b) 违反法律规定或违反DuoT规则行为及DuoT已对您采取的措施。
+DouT Privacy Policy
 
 
 
-2. 信息使用
-a)
-DuoT不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和DuoT（含DuoT关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
+DouT respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, DouT will use and disclose your personal information in accordance with the provisions of this privacy policy. But DouT will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, DouT will not disclose or provide such information to third parties without your prior permission. DouT will update this privacy policy from time to time.
 
-b) DuoT亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何DuoT平台用户如从事上述活动，一经发现，DuoT有权立即终止与该用户的服务协议。
+When you agree to the DouT Service Usage Agreement, you are deemed to have agreed to the full content of this Privacy Policy. This privacy policy is an integral part of the DouT service usage protocol.
 
 
 
-3. 信息披露
- 在如下情况下，DuoT将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
-
-a) 经您事先同意，向第三方披露；
-
-b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
-
-c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
-
-d) 如您出现违反中国有关法律、法规或者DuoT服务协议或相关规则的情况，需要向第三方披露；
-
-e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
-
-f) 其它DuoT根据法律、法规或者网站政策认为合适的披露。
+1. Scope of application
 
 
-4. 信息安全
 
-DuoT没有用户个人账号，不涉及用户个人账号问题。DuoT将对用户的信息安全提供完善的安全措施。
+When you use DouT network service or visit DouT platform web pages, DouT automatically receives and records information on your browser and computer, including but not limited to your IP address, the type of browser, the language used, the date and time of access, software and hardware features, and web page records you need.
 
+
+
+B) User personal data obtained by DouT from business partners through legal channels.
+
+
+
+You understand and agree that the following information does not apply to this privacy policy:
+
+
+
+(a) DouT collects relevant information and data that you publish in DouT, including but not limited to participating in activities;
+
+
+
+B) Violation of legal provisions or DouT rules and measures taken by DouT against you.
+
+
+
+
+
+2. Information Use
+
+A)
+
+DouT will not provide, sell, rent, share or trade your personal information to any unrelated third party unless you have prior permission, or the third party and DouT (including DouT affiliates) alone or jointly provide services for you, and after the end of the service, they will be prohibited from accessing all of the previously accessible information. This information.
+
+
+
+B) DouT also does not allow any third party to collect, edit, sell or distribute your personal information free of charge. If any DouT platform user engages in the above activities, once found, DouT has the right to terminate the service agreement with that user immediately.
+
+
+
+
+
+3. Information Disclosure
+
+Under the following circumstances, DouT will disclose your personal information in whole or in part according to your personal wishes or legal provisions:
+
+
+
+(a) Disclosure to a third party with your prior consent;
+
+
+
+B) To provide the products and services you require, you must share your personal information with third parties.
+
+
+
+(c) Disclosure to third parties or administrative or judicial bodies in accordance with the relevant provisions of the law or the requirements of administrative or judicial bodies;
+
+
+
+D) If you violate relevant laws, regulations or DouT service agreements or related rules in China, you need to disclose them to a third party.
+
+
+
+E) If you are a qualified intellectual property complaint and have lodged a complaint, you should disclose it to the respondent at the request of the respondent so that both parties can handle possible rights disputes;
+
+
+
+F) Other DouT disclosures deemed appropriate by law, regulation or website policy.
+
+
+
+
+4. Information Security
+
+
+
+DouT has no user's personal account and does not involve user's personal account. DouT will provide perfect security measures for users'information security.

@@ -1,29 +1,47 @@
-尊敬的苹果审核组,你们好
+DuoT隐私政策
 
-今日早上我们注意到,我们的账号中收到的被标记删除的邮件,对此我们表示应该是一个误会.
-因此,我们开发组于今日上午,联合运营部门召开了APP内容调查会议,主要调查APP中可能涉及违反开发者协议的地方.
-经过一天的代码审查以及AppStore调查,总结出此次误会,原因应该为,我们的APP取名为”钱站”,误打误撞地与AppStore中的某个应用重名,但是我们承诺当初为APP取名的意图是由运营部门原创出的,并没有想到会与其他APP重名.
-对此,我们修改了APP名字,为此还停止了市场部门以”钱站”为名的推广工作,等待APP改名通过后,再恢复推广工作.
-最后声明,APP名字修改后为”融泽财富-江南银联”,”江南银联”为我司银联运营模块名称,”融泽财富”为APP名称,用以推广工作.
-因此我们提起申诉,针对此次误会,希望审核组撤销该项决定.
+DuoT尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，DuoT会按照本隐私权政策的规定使用和披露您的个人信息。但DuoT将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，DuoT不会将这些信息对外披露或向第三方提供。DuoT会不时更新本隐私权政策。
+您在同意DuoT服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于DuoT服务使用协议不可分割的一部分。
 
-非常感谢
-江南银联开发组
+1. 适用范围
 
-Accurate Respected Apple Audit Team, Hello
+在您使用DuoT网络服务，或访问DuoT平台网页时，DuoT自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
 
-We noticed this morning that the email we received in our account was marked and deleted, which we said should be a misunderstanding.
+ b) DuoT通过合法途径从商业伙伴处取得的用户个人数据。
 
-Therefore, our development team held an APP content survey meeting this morning by the Joint Operations Department to investigate possible violations of developer agreements in APP.
+ 您了解并同意，以下信息不适用本隐私权政策：
 
-After a day's code review and the AppStore investigation, we concluded the misunderstanding. The reason should be that our app was named “钱站” and mistakenly renamed one of the apps in the AppStore. But we promised that the original intention of naming APP was originally created by the operation Department and did not expect to rename it with other apps.
+a) DuoT收集到的您在DuoT发布的有关信息数据，包括但不限于参与活动；
 
-To this end, we have revised the name of APP. To this end, we have stopped the marketing department's promotion work under the name of “钱站” and waited for the adoption of the name change of APP before resuming the promotion work.
+b) 违反法律规定或违反DuoT规则行为及DuoT已对您采取的措施。
 
-Finally, it is stated that the name of APP has been changed to “融泽财富-江南银联”, “江南银联” is the name of our UnionPay operation module and “融泽财富” is the name of APP to promote the work.
 
-Therefore, we appeal against this misunderstanding and hope that the audit team will revoke the decision.
 
-Thank you very much.
+2. 信息使用
+a)
+DuoT不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和DuoT（含DuoT关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
 
-江南银联开发组
+b) DuoT亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何DuoT平台用户如从事上述活动，一经发现，DuoT有权立即终止与该用户的服务协议。
+
+
+
+3. 信息披露
+ 在如下情况下，DuoT将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
+
+a) 经您事先同意，向第三方披露；
+
+b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+
+c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+
+d) 如您出现违反中国有关法律、法规或者DuoT服务协议或相关规则的情况，需要向第三方披露；
+
+e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+
+f) 其它DuoT根据法律、法规或者网站政策认为合适的披露。
+
+
+4. 信息安全
+
+DuoT没有用户个人账号，不涉及用户个人账号问题。DuoT将对用户的信息安全提供完善的安全措施。
+
